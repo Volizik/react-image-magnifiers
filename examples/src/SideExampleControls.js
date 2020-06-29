@@ -14,7 +14,7 @@ const SideExampleControls = props => {
         </select>
         <div className="note">
           Uses In Place mode automatically if there isn't enough room to display
-          side by side.
+          side by side..
         </div>
       </label>
       <div className="label-flex">
